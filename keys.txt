@@ -1,0 +1,2 @@
+access-key= VNAOJP1FYEPP5NPL5E5B
+secret-key= wFlWBUIqoFleFEcz9Nt5R7r5lMGHBQMptM64a4fu
